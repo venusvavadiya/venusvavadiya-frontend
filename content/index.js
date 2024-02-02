@@ -22,6 +22,13 @@ export const skills = [
 
 export const experiences = [
   {
+    title: "Founding Software Engineer",
+    subtitle: "Neurelo - Cloud APIs for Databases • Permanent Full-time",
+    subsubtitle: "Nov 2022 - Present",
+    items: [],
+  },
+
+  {
     title: "Software Engineer",
     subtitle: "pesto.app • Permanent Full-time",
     subsubtitle: "Mar 2022 - Sep 2022",

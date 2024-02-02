@@ -19,9 +19,9 @@ const Experiences = () => (
           <ContentBox header={(
             <ContentHeader {...{title, subtitle, subsubtitle}}/>
           )}>
-            <div className="p-2 md:p-4 bg-gray-100 rounded-lg">
+            {items.length ? <div className="p-2 md:p-4 bg-gray-100 rounded-lg">
               <ContentList items={items} />
-            </div>
+            </div> : null}
           </ContentBox>
         </div>
       ))}
