@@ -1,0 +1,35 @@
+#+title: About
+
+* Experiences
+
+** Founding Software Engineer
+Neurelo
+Nov 2022 - Present
+
+** Software Engineer
+Pesto.app
+Mar 2022 - Sep 2022
+
+** Software Engineer
+Freelance
+Aug 2021 - Feb 2022
+
+** Application Developer
+FarmLink Marketing Solutions
+Jul 2020 - Apr 2021
+
+** Software Developer
+Ideal Fine Cars
+Jan 2019 - May 2020
+
+** Technical Systems Analyst (Internship)
+RBC
+Sep 2018 - Dec 2018
+
+** Software Engineer (Part-time)
+Derman
+Feb 2018 - Aug 2018
+
+** Programmer (Internship)
+Renegade Digital Media
+Sep 2017 - Dec 2017
