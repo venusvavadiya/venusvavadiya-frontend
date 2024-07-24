@@ -4,20 +4,19 @@
 
 ** Founding Software Engineer
 Neurelo
-Nov 2022 - Present
+[2022-11]--[Present]
 
 ** Software Engineer
 Pesto.app
-Mar 2022 - Sep 2022
+[2022-03]--[2022-09]
 - Pesto was a digital workspace platform for remote teams.
 - Revamped the primary view of the web app, featuring the digital office UI.
 - Integrated segment analytics in the mobile apps to measure.
 - Took ownership of developing and deploying the iOS and Android app.
 - Technologies: TS, React, React Native, GraphQL, Express, NodeJS, Postgres.
 
-** Software Engineer
-Freelance
-Aug 2021 - Feb 2022
+** Software Engineer (Freelancing)
+[2021-08]--[2022-02]
 - Developed the diamond scraping tool to aggregate data for a brokerage firm.
 - Developed a 10K NFT collection project for a client. Managed 200K+ image components.
 - Implemented DDD, CQRS, and Event Sourcing architecture with GraphQL API.
@@ -27,7 +26,7 @@ Aug 2021 - Feb 2022
 
 ** Application Developer
 FarmLink Marketing Solutions
-Jul 2020 - Apr 2021
+[2020-07]--[2021-04]
 - Designed and implemented the in-app analytics dashboard.
 - Integrated TinyMCE editor to facilitate CMS capabilities.
 - Improved DX in the frontend by introducing modularity and frontend build pipelines.
@@ -36,16 +35,16 @@ Jul 2020 - Apr 2021
 
 ** Software Developer
 Ideal Fine Cars
-Jan 2019 - May 2020
+[2019-01]--[2020-05]
 
 ** Technical Systems Analyst (Internship)
 RBC
-Sep 2018 - Dec 2018
+[2018-09]--[2018-12]
 
 ** Software Engineer (Part-time)
 Derman
-Feb 2018 - Aug 2018
+[2018-02]--[2018-08]
 
 ** Programmer (Internship)
 Renegade Digital Media
-Sep 2017 - Dec 2017
+[2017-09]--[2017-12]
