@@ -1,0 +1,31 @@
+# pw groupmod operator -m venusvavadiya
+
+* Xorg
+
+** Basic
+# pkg install xorg
+# echo "hald_enable=\"YES\"" >> /etc/rc.conf
+# echo "dbus_enable=\"YES\"" >> /etc/rc.conf
+
+** Drivers
+# pkg install drm-kmod
+# echo "kld_list=\"i915kms\"" >> /etc/rc.conf
+# pw groupmod video -m venusvavadiya
+
+** i3
+# pkg install i3 i3status i3lock dmenu
+% echo "exec i3" >> .xinitrc
+
+* Emacs
+# pkg install fd ripgrep emacs
+% git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+% ~/.config/emacs/bin/doom install
+% ~/.config/emacs/bin/doom doctor
+
+* Browser
+# pkg install firefox
+
+* Git
+# pkg install git
+% git config --global user.name "Venus Vavadiya"
+% git config --global user.name "thisisvenusvavadiya@gmail.com"
