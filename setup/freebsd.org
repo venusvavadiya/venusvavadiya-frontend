@@ -28,4 +28,4 @@
 * Git
 # pkg install git
 % git config --global user.name "Venus Vavadiya"
-% git config --global user.name "thisisvenusvavadiya@gmail.com"
+% git config --global user.email "thisisvenusvavadiya@gmail.com"
